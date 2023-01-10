@@ -10,3 +10,7 @@
 - [Feraligatr](https://www.pokemon.com/el/pokedex/feraligatr "Feraligatr")
 
 >Feraligatr intimida a sus oponentes abriendo las grandes fauces que tiene. En combate, golpea el suelo bruscamente con las gruesas y fuertes patas traseras que tiene para cargar contra su rival a una velocidad de vertigo.>
+
+
+esto fue creado e investigado por el siyup
+
