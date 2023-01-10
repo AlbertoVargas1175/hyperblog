@@ -2,4 +2,9 @@ Esta es la historia del mimoso raton
  aqui se van a editar los datos 
  mañana nos enfocaremos en su vida laboral 
  when the seasons change
+<<<<<<< HEAD
 coming down
+=======
+ 
+ wash it wall away
+>>>>>>> 8d2348e6807b5d62dbf5986c5fed0b3583d2f1ae
