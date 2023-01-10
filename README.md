@@ -14,3 +14,6 @@
 
 esto fue creado e investigado por el siyup
 
+esto fue creado e investigado por el siyup, en donde hay ejemplos en toda clase de plataformas 
+
+disponible para todas las edades
